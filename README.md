@@ -9,4 +9,7 @@ Install the following packages to your system default python:
 
 # Command
   Download the repository and run java MainApp command through terminal inside bin folder.
+  
+# Screenshots
+
     
